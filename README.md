@@ -1,4 +1,4 @@
-﻿매장의 세일데이터를 활용한 세일 예측![image](https://github.com/user-attachments/assets/48608e6b-e7a3-4114-83b6-05f1108694a5)
+![image](https://github.com/user-attachments/assets/48608e6b-e7a3-4114-83b6-05f1108694a5)
 
 ﻿1. 프로젝트 개요
 본 프로젝트는 매장의 세일데이터를 활용하여 세일 여부를 예측하는 인공신경망(ANN)모델을 개발하는 것을 목표로 합니다. 본 모델은 판매 데이터에 기반하여 향후 세일 여부를 예측함으로써 매출 관리 및 마케팅 전략 수립에 도움을 주고자 합니다. 모델은 Jupyter Notebook 환경에서 개발되었으며, 은닉층 2개, 활성화 함수 ReLU, 출력층 회귀 모델로 구성되었습니다.
